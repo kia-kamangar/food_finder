@@ -1,0 +1,3 @@
+Pachenar	kurdish	30
+Masala	Indian	45
+sarchenar	iranian	20
